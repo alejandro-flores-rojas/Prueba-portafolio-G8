@@ -1,0 +1,37 @@
+
+
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.bg-naranjo{
+  background-color: orange;
+}
+
+.bebas{
+  font-family: 'Bebas Neue', cursive;
+}
+
+header{
+  background-image: url( '../img/bg-hero.png'); /*poner foto*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+.pad{
+  padding-bottom: 20em;
+}
+
+.bg-trabajos{
+  background-color: orange;
+}
+
+footer{
+  background-color: orange;
+}
+.iconos{
+  display: inline-block;
+}
