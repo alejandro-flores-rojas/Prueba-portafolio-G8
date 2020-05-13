@@ -7,7 +7,7 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 .bg-naranjo{
-  background-color: orange;
+  background-color: #ffa64d;
 }
 
 .bebas{
@@ -25,13 +25,12 @@ header{
   padding-bottom: 20em;
 }
 
-.bg-trabajos{
-  background-color: orange;
-}
-
-footer{
-  background-color: orange;
-}
 .iconos{
   display: inline-block;
+}
+
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
 }
